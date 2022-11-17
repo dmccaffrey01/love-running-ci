@@ -284,6 +284,14 @@ footer {
         padding: 0;
     }
 
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 225px;
+        padding: 0;
+        margin: 0;
+    }
+
     hr {
         display: none;
     }
